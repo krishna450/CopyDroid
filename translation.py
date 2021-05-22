@@ -1,10 +1,7 @@
 class Translation(object):
 
       # Start text
-      START = "Hi,
-I am an Auto-Forwarder bot.
-
-My 👉 <a href='https://github.com/Ns-AnoNymouS/Auto-Forward-Bot'>Source Code</a> 👈"             
+      START = "Hi, I am an Auto-Forwarder bot. My 👉 <a href='https://github.com/Ns-AnoNymouS/Auto-Forward-Bot'>Source Code</a> 👈"             
 
       #About text
        #ABOUT = """
